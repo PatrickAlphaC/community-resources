@@ -2,6 +2,7 @@
 Community suggested resources for development on Monad.
 
 ### End-to-End Web3 Resources
+[Cyfrin Updraft](https://updraft.cyfrin.io/)
 [Awesome Web3](https://github.com/ahmet/awesome-web3)\
 [Speed Run Ethereum](https://speedrunethereum.com/) - For Beginners\
 [ThirdWeb](https://blog.thirdweb.com/guides/)\
@@ -10,6 +11,7 @@ Community suggested resources for development on Monad.
 [Scaffoldeth.io](https://scaffoldeth.io/)
 
 ### Solidity Development
+[Solidity Developer Career Track by Cyfrin](https://updraft.cyfrin.io/courses/solidity)
 [Solidity Bootcamp by RareSkills](https://www.rareskills.io/solidity-bootcamp)\
 [Solidity Patterns](https://fravoll.github.io/solidity-patterns/)\
 [Cookbook.dev](https://www.cookbook.dev/)\
@@ -18,6 +20,7 @@ Community suggested resources for development on Monad.
 
 
 ### Web/Client Side Development
+[Web3 Full Stack Curriculum by Cyfrin](https://updraft.cyfrin.io/courses/full-stack-web3-development-crash-course)
 [The Odin Project](https://www.theodinproject.com/) - For Beginners\
 [Shovel](https://indexsupply.com/shovel/docs/)
 
